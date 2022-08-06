@@ -1,0 +1,8 @@
+06:59:18	CopadoFunction INFO setting status 'doing something'
+06:59:19	Hemant
+06:59:19	  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+06:59:19	                                 Dload  Upload   Total   Spent    Left  Speed
+06:59:19	  0     0    0     0    0     0      0      0 --:--:-- --06:59:19	:--:-- --:--:--     006:59:20	100    27  100    27    0     0     46      0 --:--:-- --:--:-- --:--:--    46
+06:59:20	{
+06:59:20	"Password": "Hello@123"
+06:59:20	}
